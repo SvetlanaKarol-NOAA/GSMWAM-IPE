@@ -3,12 +3,12 @@
 	url = https://github.com/SvetlanaKarol-NOAA/WAM.git
 [submodule "IPE"]
 	path = IPE
-	url = https://github.com/SvetlanaKarol-NOAA/IPE.git
+	url = https://github.com/NOAA-SWPC/IPE.git
 [submodule "NEMS"]
 	path = NEMS
-	url = https://github.com/SvetlanaKarol-NOAA/NEMS.git
+	url = https://github.com/NOAA-SWPC/NEMS.git
 	branch = develop
 [submodule "SWIO"]
 	path = SWIO
-	url = https://github.com/SvetlanaKarol-NOAA/SWIO.git
+	url = https://github.com/NOAA-SWPC/SWIO.git
 	branch = master
